@@ -19,3 +19,11 @@ source ~/.zshrc
 # Verify Installation
 
 nvm --version
+
+# To install a specific Node version, run:
+
+nvm install 18
+
+# Next, implement the installed version, run:
+
+nvm use 18
