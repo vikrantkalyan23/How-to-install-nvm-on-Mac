@@ -1,4 +1,4 @@
-# How-to-nstall-nvm-on-Mac
+# How-to-install-nvm-on-Mac
 How to install nvm on Mac
 
 # Install NVM using Homebrew
